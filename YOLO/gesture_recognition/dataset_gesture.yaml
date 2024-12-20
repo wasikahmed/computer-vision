@@ -1,0 +1,6 @@
+train: /Users/wasik/Desktop/computer-vision/YOLO/gesture_recognition/train
+val: /Users/wasik/Desktop/computer-vision/YOLO/gesture_recognition/val
+
+nc: 2
+
+names: ["Palm", "Unknown"]

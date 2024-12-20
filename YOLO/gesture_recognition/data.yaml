@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['fist', 'index', 'ok', 'palm', 'thumb']
+
+roboflow:
+  workspace: wasiks-workspace
+  project: gesture-recognition-o6m9o
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/wasiks-workspace/gesture-recognition-o6m9o/dataset/1
